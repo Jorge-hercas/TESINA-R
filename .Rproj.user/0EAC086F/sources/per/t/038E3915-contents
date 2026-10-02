@@ -1,0 +1,2149 @@
+@article{knuth84,
+  author = {Knuth, Donald E.},
+  title = {Literate Programming},
+  year = {1984},
+  issue_date = {May 1984},
+  publisher = {Oxford University Press, Inc.},
+  address = {USA},
+  volume = {27},
+  number = {2},
+  issn = {0010-4620},
+  url = {https://doi.org/10.1093/comjnl/27.2.97},
+  doi = {10.1093/comjnl/27.2.97},
+  journal = {Comput. J.},
+  month = may,
+  pages = {97–111},
+  numpages = {15}
+}
+
+@book{barnes2007programacion,
+  title={Programaci{\'o}n orientada a objetos con Java},
+  author={Barnes, David J and K{\"o}lling, Michael and Brenta, Blanca Irene},
+  year={2007},
+  publisher={Pearson Educaci{\'o}n}
+}
+
+@article{butler2009asreml,
+  title={ASReml-R reference manual},
+  author={Butler, DG and Cullis, Brian R and Gilmour, AR and Gogel, BJ},
+  journal={The State of Queensland, Department of Primary Industries and Fisheries, Brisbane},
+  year={2009},
+  publisher={Citeseer}
+}
+
+@article{ahumada2003r,
+  title={R para Principiantes},
+  author={Ahumada, Jorge A},
+  journal={University of Hawaii},
+  year={2003}
+}
+
+@book{del2011algebra,
+  title={{\'A}lgebra lineal para estudiantes de ingenier{\'\i}a y ciencias},
+  author={del Valle Sotelo, Juan Carlos},
+  year={2011},
+  publisher={McGraw-Hill/Interamericana}
+}
+
+@Manual{reactable,
+  title = {reactable: Interactive Data Tables Based on 'React Table'},
+  author = {Greg Lin and Carson Sievert},
+  year = {2021},
+  note = {R package version 0.2.4},
+  url = {https://cran.r-project.org/web/packages/reactable/index.html}
+}
+
+@article{hofmann2017functional,
+title={Functional data analysis with R and MATLAB},
+author={Hofmann, Heike and H{"o}rmann, Siegfried and Krivobokova, Tatyana},
+journal={Springer},
+volume={101},
+year={2017}
+}
+
+@book{gardener2012beginning,
+  title={Beginning R: the statistical programming language},
+  author={Gardener, Mark},
+  year={2012},
+  publisher={John Wiley \& Sons}
+}
+
+@article{ferraro2015toolbox,
+  title={A toolbox for fuzzy clustering using the R programming language},
+  author={Ferraro, Maria Brigida and Giordani, Paolo},
+  journal={Fuzzy Sets and Systems},
+  volume={279},
+  pages={1--16},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{kaya2018spatial,
+  title={Spatial data analysis with R programming for environment},
+  author={Kaya, Efdal and Agca, Muge and Adiguzel, Fatih and Cetin, Mehmet},
+  journal={Human and ecological risk assessment: An International Journal},
+  year={2018},
+  publisher={Taylor \& Francis}
+}
+
+@article{chan2018data,
+  title={Data analysis using R programming},
+  author={Chan, Bertram KC and Chan, Bertram KC},
+  journal={Biostatistics for Human Genetic Epidemiology},
+  pages={47--122},
+  year={2018},
+  publisher={Springer}
+}
+
+@book{melton1993understanding,
+  title={Understanding the new SQL: a complete guide},
+  author={Melton, Jim and Simon, Alan R},
+  year={1993},
+  publisher={Morgan Kaufmann}
+}
+
+@book{groff2002sql,
+  title={SQL: the complete reference},
+  author={Groff, James R and Weinberg, Paul N and Oppel, Andrew J},
+  volume={2},
+  year={2002},
+  publisher={McGraw-Hill/Osborne}
+}
+
+@book{converse2004php5,
+  title={PHP5 and MySQL bible},
+  author={Converse, Tim and Park, Joyce and Morgan, Clark},
+  volume={147},
+  year={2004},
+  publisher={John Wiley \& Sons}
+}
+
+@misc{jorge-hercas_OweatherR,
+  author = {Jorge Hernandez},
+  title = {{OweatherR}},
+  howpublished = {\url{https://github.com/Jorge-hercas/OweatherR}},
+  year = {2023}
+}
+
+@online{cabrera_introduction_2022,
+  author = {Cabrera, Gabriel},
+  title = {Introduction to Working with Firestore in R},
+  year = {2022},
+  url = {https://gabrielcp.medium.com/introduction-to-working-with-firestore-in-r-99443489b01b},
+  urldate = {2024-03-23}
+}
+
+
+
+
+@misc{iusmexico_regiones,
+  title        = {Regiones de México},
+  author       = {IusMexico},
+  year         = {2024},
+  url          = {http://www.iusmexico.com.mx/Region_CENTRO6/#:~:text=REGION%20NORTE%3A%20con%20los%20Estados,Estados%20de%20PUEBLA%20y%20VERACRUZ.},
+  note         = {Accedido: 19 de mayo de 2024}
+}
+
+@misc{kyanyoga_sales_data,
+  author       = {Kyanyoga},
+  title        = {Sample - Superstore Sales Dataset},
+  year         = {n.d.},
+  howpublished = {\url{https://www.kaggle.com/datasets/kyanyoga/sample-sales-data}},
+  note         = {Dataset publicado en Kaggle. Licencia: CC0 - Public Domain},
+}
+
+
+@misc{hdz2023levenshtein,
+  author       = {Hernández, Jorge},
+  title        = {Algoritmo de Levenshtein en SQL},
+  year         = {2025},
+  howpublished = {\url{https://bookdown.org/eljorgehdz/algoritmo_de_levenshtein_en_sql/LEVENSHTEIN.html}},
+  note         = {Accedido el 3 de agosto de 2025}
+}
+
+
+
+
+
+
+@article{pearson1895regression,
+  author  = {Pearson, Karl},
+  title   = {Notes on Regression and Inheritance in the Case of Two Parents},
+  journal = {Proceedings of the Royal Society of London},
+  volume  = {58},
+  pages   = {240--242},
+  year    = {1895},
+  note    = {Tema: correlación, regresión y fundamentos de asociación lineal}
+}
+
+@article{spearman1904proof,
+  author  = {Spearman, Charles},
+  title   = {The Proof and Measurement of Association between Two Things},
+  journal = {The American Journal of Psychology},
+  volume  = {15},
+  number  = {1},
+  pages   = {72--101},
+  year    = {1904},
+  note    = {Tema: correlación de Spearman y métodos basados en rangos}
+}
+
+@article{anscombe1973graphs,
+  author  = {Anscombe, Francis J.},
+  title   = {Graphs in Statistical Analysis},
+  journal = {The American Statistician},
+  volume  = {27},
+  number  = {1},
+  pages   = {17--21},
+  year    = {1973},
+  note    = {Tema: visualización de datos, Anscombe's Quartet, limitaciones de estadísticos resumen}
+}
+
+@book{johnson2007applied,
+  author    = {Johnson, Richard A. and Wichern, Dean W.},
+  title     = {Applied Multivariate Statistical Analysis},
+  edition   = {6},
+  publisher = {Pearson},
+  year      = {2007},
+  note      = {Tema: matrices de correlación, análisis multivariado, PCA y técnicas multivariadas}
+}
+
+@book{wasserman2004all,
+  author    = {Wasserman, Larry},
+  title     = {All of Statistics: A Concise Course in Statistical Inference},
+  publisher = {Springer},
+  year      = {2004},
+  note      = {Tema: fundamentos estadísticos, inferencia, regresión y probabilidad aplicada}
+}
+
+@book{pearl2009causality,
+  author    = {Pearl, Judea},
+  title     = {Causality: Models, Reasoning, and Inference},
+  edition   = {2},
+  publisher = {Cambridge University Press},
+  year      = {2009},
+  note      = {Tema: causalidad, correlación no implica causalidad, modelos causales}
+}
+
+@book{pearl2016causal,
+  author    = {Pearl, Judea and Glymour, Madelyn and Jewell, Nicholas P.},
+  title     = {Causal Inference in Statistics: A Primer},
+  publisher = {Wiley},
+  year      = {2016},
+  note      = {Tema: inferencia causal, grafos causales, correlación versus causalidad}
+}
+
+@book{angrist2009mostly,
+  author    = {Angrist, Joshua D. and Pischke, J{\"o}rn-Steffen},
+  title     = {Mostly Harmless Econometrics: An Empiricist's Companion},
+  publisher = {Princeton University Press},
+  year      = {2009},
+  note      = {Tema: econometría aplicada, causalidad, variables instrumentales, endogeneidad}
+}
+
+@book{wooldridge2020introductory,
+  author    = {Wooldridge, Jeffrey M.},
+  title     = {Introductory Econometrics: A Modern Approach},
+  edition   = {7},
+  publisher = {Cengage Learning},
+  year      = {2020},
+  note      = {Tema: regresión lineal, MCO, supuestos, endogeneidad, variables instrumentales}
+}
+
+@book{greene2018econometric,
+  author    = {Greene, William H.},
+  title     = {Econometric Analysis},
+  edition   = {8},
+  publisher = {Pearson},
+  year      = {2018},
+  note      = {Tema: regresión, econometría, inferencia, heterocedasticidad, modelos avanzados}
+}
+
+@book{montgomery2021linear,
+  author    = {Montgomery, Douglas C. and Peck, Elizabeth A. and Vining, G. Geoffrey},
+  title     = {Introduction to Linear Regression Analysis},
+  edition   = {6},
+  publisher = {Wiley},
+  year      = {2021},
+  note      = {Tema: regresión lineal simple y múltiple, diagnóstico de modelos, validación}
+}
+
+@book{kutner2005applied,
+  author    = {Kutner, Michael H. and Nachtsheim, Christopher J. and Neter, John and Li, William},
+  title     = {Applied Linear Statistical Models},
+  edition   = {5},
+  publisher = {McGraw-Hill/Irwin},
+  year      = {2005},
+  note      = {Tema: modelos lineales, ANOVA, regresión múltiple, diagnóstico}
+}
+
+@article{hausman1978specification,
+  author  = {Hausman, Jerry A.},
+  title   = {Specification Tests in Econometrics},
+  journal = {Econometrica},
+  volume  = {46},
+  number  = {6},
+  pages   = {1251--1271},
+  year    = {1978},
+  note    = {Tema: test de Hausman, endogeneidad y comparación de estimadores}
+}
+
+@book{hayashi2000econometrics,
+  author    = {Hayashi, Fumio},
+  title     = {Econometrics},
+  publisher = {Princeton University Press},
+  year      = {2000},
+  note      = {Tema: econometría matemática, MCO, GMM, variables instrumentales}
+}
+
+@article{breusch1979simple,
+  author  = {Breusch, Trevor S. and Pagan, Adrian R.},
+  title   = {A Simple Test for Heteroscedasticity and Random Coefficient Variation},
+  journal = {Econometrica},
+  volume  = {47},
+  number  = {5},
+  pages   = {1287--1294},
+  year    = {1979},
+  note    = {Tema: prueba Breusch-Pagan, heterocedasticidad}
+}
+
+@article{white1980heteroskedasticity,
+  author  = {White, Halbert},
+  title   = {A Heteroskedasticity-Consistent Covariance Matrix Estimator and a Direct Test for Heteroskedasticity},
+  journal = {Econometrica},
+  volume  = {48},
+  number  = {4},
+  pages   = {817--838},
+  year    = {1980},
+  note    = {Tema: errores estándar robustos y prueba de White}
+}
+
+@article{durbin1950testing,
+  author  = {Durbin, James and Watson, Geoffrey S.},
+  title   = {Testing for Serial Correlation in Least Squares Regression. I},
+  journal = {Biometrika},
+  volume  = {37},
+  number  = {3/4},
+  pages   = {409--428},
+  year    = {1950},
+  note    = {Tema: prueba Durbin-Watson, autocorrelación de residuos}
+}
+
+@article{durbin1951testing,
+  author  = {Durbin, James and Watson, Geoffrey S.},
+  title   = {Testing for Serial Correlation in Least Squares Regression. II},
+  journal = {Biometrika},
+  volume  = {38},
+  number  = {1/2},
+  pages   = {159--178},
+  year    = {1951},
+  note    = {Tema: prueba Durbin-Watson, autocorrelación de residuos}
+}
+
+@article{breusch1978testing,
+  author  = {Breusch, Trevor S.},
+  title   = {Testing for Autocorrelation in Dynamic Linear Models},
+  journal = {Australian Economic Papers},
+  volume  = {17},
+  number  = {31},
+  pages   = {334--355},
+  year    = {1978},
+  note    = {Tema: prueba Breusch-Godfrey, autocorrelación}
+}
+
+@article{godfrey1978testing,
+  author  = {Godfrey, Leslie G.},
+  title   = {Testing Against General Autoregressive and Moving Average Error Models when the Regressors Include Lagged Dependent Variables},
+  journal = {Econometrica},
+  volume  = {46},
+  number  = {6},
+  pages   = {1293--1301},
+  year    = {1978},
+  note    = {Tema: prueba Breusch-Godfrey, autocorrelación en modelos dinámicos}
+}
+
+@book{belsley1980regression,
+  author    = {Belsley, David A. and Kuh, Edwin and Welsch, Roy E.},
+  title     = {Regression Diagnostics: Identifying Influential Data and Sources of Collinearity},
+  publisher = {Wiley},
+  year      = {1980},
+  note      = {Tema: diagnóstico de regresión, multicolinealidad, observaciones influyentes}
+}
+
+@book{hastie2009elements,
+  author    = {Hastie, Trevor and Tibshirani, Robert and Friedman, Jerome},
+  title     = {The Elements of Statistical Learning: Data Mining, Inference, and Prediction},
+  edition   = {2},
+  publisher = {Springer},
+  year      = {2009},
+  note      = {Tema: machine learning, validación, regularización, PCA, clustering, modelos predictivos}
+}
+
+@book{james2021introduction,
+  author    = {James, Gareth and Witten, Daniela and Hastie, Trevor and Tibshirani, Robert},
+  title     = {An Introduction to Statistical Learning: With Applications in R},
+  edition   = {2},
+  publisher = {Springer},
+  year      = {2021},
+  note      = {Tema: regresión, validación, regularización, clasificación, PCA, clustering}
+}
+
+@book{kuhn2013applied,
+  author    = {Kuhn, Max and Johnson, Kjell},
+  title     = {Applied Predictive Modeling},
+  publisher = {Springer},
+  year      = {2013},
+  note      = {Tema: modelado predictivo, validación, preprocesamiento, métricas de desempeño}
+}
+
+@inproceedings{kohavi1995study,
+  author    = {Kohavi, Ron},
+  title     = {A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection},
+  booktitle = {Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence},
+  pages     = {1137--1143},
+  year      = {1995},
+  note      = {Tema: cross-validation, bootstrap y selección de modelos}
+}
+
+@article{hyndman2006another,
+  author  = {Hyndman, Rob J. and Koehler, Anne B.},
+  title   = {Another Look at Measures of Forecast Accuracy},
+  journal = {International Journal of Forecasting},
+  volume  = {22},
+  number  = {4},
+  pages   = {679--688},
+  year    = {2006},
+  note    = {Tema: métricas de pronóstico, RMSE, MAE, MAPE y limitaciones}
+}
+
+@article{hoerl1970ridge,
+  author  = {Hoerl, Arthur E. and Kennard, Robert W.},
+  title   = {Ridge Regression: Biased Estimation for Nonorthogonal Problems},
+  journal = {Technometrics},
+  volume  = {12},
+  number  = {1},
+  pages   = {55--67},
+  year    = {1970},
+  note    = {Tema: regresión Ridge y multicolinealidad}
+}
+
+@article{tibshirani1996regression,
+  author  = {Tibshirani, Robert},
+  title   = {Regression Shrinkage and Selection via the Lasso},
+  journal = {Journal of the Royal Statistical Society: Series B},
+  volume  = {58},
+  number  = {1},
+  pages   = {267--288},
+  year    = {1996},
+  note    = {Tema: regresión Lasso, regularización y selección de variables}
+}
+
+@article{zou2005regularization,
+  author  = {Zou, Hui and Hastie, Trevor},
+  title   = {Regularization and Variable Selection via the Elastic Net},
+  journal = {Journal of the Royal Statistical Society: Series B},
+  volume  = {67},
+  number  = {2},
+  pages   = {301--320},
+  year    = {2005},
+  note    = {Tema: Elastic Net, regularización combinada Ridge-Lasso}
+}
+
+@article{friedman2010regularization,
+  author  = {Friedman, Jerome and Hastie, Trevor and Tibshirani, Robert},
+  title   = {Regularization Paths for Generalized Linear Models via Coordinate Descent},
+  journal = {Journal of Statistical Software},
+  volume  = {33},
+  number  = {1},
+  pages   = {1--22},
+  year    = {2010},
+  note    = {Tema: implementación de Ridge, Lasso y Elastic Net en glmnet}
+}
+
+@article{pearson1901lines,
+  author  = {Pearson, Karl},
+  title   = {On Lines and Planes of Closest Fit to Systems of Points in Space},
+  journal = {Philosophical Magazine},
+  volume  = {2},
+  number  = {11},
+  pages   = {559--572},
+  year    = {1901},
+  note    = {Tema: PCA, ajuste por mínimos cuadrados en espacios multidimensionales}
+}
+
+@article{hotelling1933analysis,
+  author  = {Hotelling, Harold},
+  title   = {Analysis of a Complex of Statistical Variables into Principal Components},
+  journal = {Journal of Educational Psychology},
+  volume  = {24},
+  number  = {6},
+  pages   = {417--441},
+  year    = {1933},
+  note    = {Tema: análisis de componentes principales}
+}
+
+@book{jolliffe2002principal,
+  author    = {Jolliffe, Ian T.},
+  title     = {Principal Component Analysis},
+  edition   = {2},
+  publisher = {Springer},
+  year      = {2002},
+  note      = {Tema: PCA, reducción de dimensionalidad}
+}
+
+@article{jolliffe2016principal,
+  author  = {Jolliffe, Ian T. and Cadima, Jorge},
+  title   = {Principal Component Analysis: A Review and Recent Developments},
+  journal = {Philosophical Transactions of the Royal Society A},
+  volume  = {374},
+  number  = {2065},
+  pages   = {20150202},
+  year    = {2016},
+  note    = {Tema: revisión moderna de PCA}
+}
+
+@book{harman1976modern,
+  author    = {Harman, Harry H.},
+  title     = {Modern Factor Analysis},
+  edition   = {3},
+  publisher = {University of Chicago Press},
+  year      = {1976},
+  note      = {Tema: análisis factorial exploratorio}
+}
+
+@book{fabrigar2012exploratory,
+  author    = {Fabrigar, Leandre R. and Wegener, Duane T.},
+  title     = {Exploratory Factor Analysis},
+  publisher = {Oxford University Press},
+  year      = {2012},
+  note      = {Tema: análisis factorial exploratorio}
+}
+
+@book{brown2015confirmatory,
+  author    = {Brown, Timothy A.},
+  title     = {Confirmatory Factor Analysis for Applied Research},
+  edition   = {2},
+  publisher = {Guilford Press},
+  year      = {2015},
+  note      = {Tema: análisis factorial confirmatorio}
+}
+
+@book{kline2023sem,
+  author    = {Kline, Rex B.},
+  title     = {Principles and Practice of Structural Equation Modeling},
+  edition   = {5},
+  publisher = {Guilford Press},
+  year      = {2023},
+  note      = {Tema: SEM, CFA, path analysis e identificación de modelos}
+}
+
+@article{vandermaaten2008tsne,
+  author  = {van der Maaten, Laurens and Hinton, Geoffrey},
+  title   = {Visualizing Data using t-SNE},
+  journal = {Journal of Machine Learning Research},
+  volume  = {9},
+  pages   = {2579--2605},
+  year    = {2008},
+  note    = {Tema: t-SNE y visualización no lineal de alta dimensionalidad}
+}
+
+@article{vandermaaten2014accelerating,
+  author  = {van der Maaten, Laurens},
+  title   = {Accelerating t-SNE using Tree-Based Algorithms},
+  journal = {Journal of Machine Learning Research},
+  volume  = {15},
+  pages   = {3221--3245},
+  year    = {2014},
+  note    = {Tema: t-SNE acelerado y aproximaciones computacionales}
+}
+
+@inproceedings{macqueen1967methods,
+  author    = {MacQueen, James},
+  title     = {Some Methods for Classification and Analysis of Multivariate Observations},
+  booktitle = {Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability},
+  volume    = {1},
+  pages     = {281--297},
+  year      = {1967},
+  note      = {Tema: K-means clustering}
+}
+
+@article{lloyd1982least,
+  author  = {Lloyd, Stuart P.},
+  title   = {Least Squares Quantization in PCM},
+  journal = {IEEE Transactions on Information Theory},
+  volume  = {28},
+  number  = {2},
+  pages   = {129--137},
+  year    = {1982},
+  note    = {Tema: algoritmo de Lloyd, K-means}
+}
+
+@book{kaufman1990finding,
+  author    = {Kaufman, Leonard and Rousseeuw, Peter J.},
+  title     = {Finding Groups in Data: An Introduction to Cluster Analysis},
+  publisher = {Wiley},
+  year      = {1990},
+  note      = {Tema: clustering, silhouette, particiones y métodos jerárquicos}
+}
+
+@article{murtagh2012algorithms,
+  author  = {Murtagh, Fionn and Contreras, Pedro},
+  title   = {Algorithms for Hierarchical Clustering: An Overview},
+  journal = {WIREs Data Mining and Knowledge Discovery},
+  volume  = {2},
+  number  = {1},
+  pages   = {86--97},
+  year    = {2012},
+  note    = {Tema: clustering jerárquico}
+}
+
+@inproceedings{ester1996density,
+  author    = {Ester, Martin and Kriegel, Hans-Peter and Sander, J{\"o}rg and Xu, Xiaowei},
+  title     = {A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise},
+  booktitle = {Proceedings of the Second International Conference on Knowledge Discovery and Data Mining},
+  pages     = {226--231},
+  year      = {1996},
+  note      = {Tema: DBSCAN, clustering espacial y detección de ruido}
+}
+
+@article{rousseeuw1987silhouettes,
+  author  = {Rousseeuw, Peter J.},
+  title   = {Silhouettes: A Graphical Aid to the Interpretation and Validation of Cluster Analysis},
+  journal = {Journal of Computational and Applied Mathematics},
+  volume  = {20},
+  pages   = {53--65},
+  year    = {1987},
+  note    = {Tema: silhouette score, evaluación de clusters}
+}
+
+@book{box2015time,
+  author    = {Box, George E. P. and Jenkins, Gwilym M. and Reinsel, Gregory C. and Ljung, Greta M.},
+  title     = {Time Series Analysis: Forecasting and Control},
+  edition   = {5},
+  publisher = {Wiley},
+  year      = {2015},
+  note      = {Tema: AR, ARIMA, SARIMA, diagnóstico y pronóstico de series de tiempo}
+}
+
+@book{hamilton1994time,
+  author    = {Hamilton, James D.},
+  title     = {Time Series Analysis},
+  publisher = {Princeton University Press},
+  year      = {1994},
+  note      = {Tema: series de tiempo, estacionariedad, VAR y econometría temporal}
+}
+
+@book{brockwell2016introduction,
+  author    = {Brockwell, Peter J. and Davis, Richard A.},
+  title     = {Introduction to Time Series and Forecasting},
+  edition   = {3},
+  publisher = {Springer},
+  year      = {2016},
+  note      = {Tema: introducción a series de tiempo, ARMA, ARIMA y pronóstico}
+}
+
+@book{shumway2017time,
+  author    = {Shumway, Robert H. and Stoffer, David S.},
+  title     = {Time Series Analysis and Its Applications: With R Examples},
+  edition   = {4},
+  publisher = {Springer},
+  year      = {2017},
+  note      = {Tema: series de tiempo con R, modelos ARIMA, espectro y aplicaciones}
+}
+
+@article{dickey1979distribution,
+  author  = {Dickey, David A. and Fuller, Wayne A.},
+  title   = {Distribution of the Estimators for Autoregressive Time Series with a Unit Root},
+  journal = {Journal of the American Statistical Association},
+  volume  = {74},
+  number  = {366},
+  pages   = {427--431},
+  year    = {1979},
+  note    = {Tema: prueba ADF, raíces unitarias y estacionariedad}
+}
+
+@book{hyndman2021forecasting,
+  author    = {Hyndman, Rob J. and Athanasopoulos, George},
+  title     = {Forecasting: Principles and Practice},
+  edition   = {3},
+  publisher = {OTexts},
+  year      = {2021},
+  url       = {https://otexts.com/fpp3/},
+  note      = {Tema: series de tiempo, ETS, ARIMA, validación, métricas y pronóstico aplicado}
+}
+
+@book{hyndman2008forecasting,
+  author    = {Hyndman, Rob J. and Koehler, Anne B. and Ord, J. Keith and Snyder, Ralph D.},
+  title     = {Forecasting with Exponential Smoothing: The State Space Approach},
+  publisher = {Springer},
+  year      = {2008},
+  note      = {Tema: suavizamiento exponencial, ETS, Holt y Holt-Winters}
+}
+
+@techreport{holt1957forecasting,
+  author      = {Holt, Charles C.},
+  title       = {Forecasting Seasonals and Trends by Exponentially Weighted Moving Averages},
+  institution = {Carnegie Institute of Technology},
+  year        = {1957},
+  note        = {Tema: método de Holt y suavizamiento exponencial}
+}
+
+@article{winters1960forecasting,
+  author  = {Winters, Peter R.},
+  title   = {Forecasting Sales by Exponentially Weighted Moving Averages},
+  journal = {Management Science},
+  volume  = {6},
+  number  = {3},
+  pages   = {324--342},
+  year    = {1960},
+  note    = {Tema: Holt-Winters y series con tendencia y estacionalidad}
+}
+
+@article{taylor2018forecasting,
+  author  = {Taylor, Sean J. and Letham, Benjamin},
+  title   = {Forecasting at Scale},
+  journal = {The American Statistician},
+  volume  = {72},
+  number  = {1},
+  pages   = {37--45},
+  year    = {2018},
+  note    = {Tema: Prophet, pronóstico automatizado y escalable}
+}
+
+@manual{prophetDocs,
+  title        = {Prophet Documentation},
+  author       = {{Meta Open Source}},
+  organization = {Meta},
+  year         = {2026},
+  url          = {https://facebook.github.io/prophet/},
+  note         = {Tema: documentación oficial de Prophet para R y Python}
+}
+
+@book{lutkepohl2005new,
+  author    = {L{\"u}tkepohl, Helmut},
+  title     = {New Introduction to Multiple Time Series Analysis},
+  publisher = {Springer},
+  year      = {2005},
+  note      = {Tema: VAR, VECM y series de tiempo multivariadas}
+}
+
+@article{sims1980macroeconomics,
+  author  = {Sims, Christopher A.},
+  title   = {Macroeconomics and Reality},
+  journal = {Econometrica},
+  volume  = {48},
+  number  = {1},
+  pages   = {1--48},
+  year    = {1980},
+  note    = {Tema: modelos VAR y econometría macroeconómica}
+}
+
+@article{hyndman2008automatic,
+  author  = {Hyndman, Rob J. and Khandakar, Yeasmin},
+  title   = {Automatic Time Series Forecasting: The forecast Package for R},
+  journal = {Journal of Statistical Software},
+  volume  = {27},
+  number  = {3},
+  pages   = {1--22},
+  year    = {2008},
+  note    = {Tema: selección automática de modelos ARIMA y paquete forecast en R}
+}
+
+@article{fader2009probability,
+  author  = {Fader, Peter S. and Hardie, Bruce G. S.},
+  title   = {Probability Models for Customer-Base Analysis},
+  journal = {Journal of Interactive Marketing},
+  volume  = {23},
+  number  = {1},
+  pages   = {61--69},
+  year    = {2009},
+  note    = {Tema: análisis de clientes, cohortes, retención y CLV}
+}
+
+@article{gupta2004valuing,
+  author  = {Gupta, Sunil and Lehmann, Donald R. and Stuart, Jennifer Ames},
+  title   = {Valuing Customers},
+  journal = {Journal of Marketing Research},
+  volume  = {41},
+  number  = {1},
+  pages   = {7--18},
+  year    = {2004},
+  note    = {Tema: customer lifetime value y valuación de clientes}
+}
+
+@book{kumar2008managing,
+  author    = {Kumar, V.},
+  title     = {Managing Customers for Profit: Strategies to Increase Profits and Build Loyalty},
+  publisher = {Wharton School Publishing},
+  year      = {2008},
+  note      = {Tema: CLV, rentabilidad de clientes y retención}
+}
+
+@book{blattberg2008database,
+  author    = {Blattberg, Robert C. and Kim, Byung-Do and Neslin, Scott A.},
+  title     = {Database Marketing: Analyzing and Managing Customers},
+  publisher = {Springer},
+  year      = {2008},
+  note      = {Tema: marketing analytics, CLV, segmentación, retención y cohortes}
+}
+
+@article{kaplan1958nonparametric,
+  author  = {Kaplan, Edward L. and Meier, Paul},
+  title   = {Nonparametric Estimation from Incomplete Observations},
+  journal = {Journal of the American Statistical Association},
+  volume  = {53},
+  number  = {282},
+  pages   = {457--481},
+  year    = {1958},
+  note    = {Tema: Kaplan-Meier y análisis de supervivencia}
+}
+
+@article{cox1972regression,
+  author  = {Cox, David R.},
+  title   = {Regression Models and Life-Tables},
+  journal = {Journal of the Royal Statistical Society: Series B},
+  volume  = {34},
+  number  = {2},
+  pages   = {187--220},
+  year    = {1972},
+  note    = {Tema: modelo de riesgos proporcionales de Cox}
+}
+
+@book{kleinbaum2012survival,
+  author    = {Kleinbaum, David G. and Klein, Mitchel},
+  title     = {Survival Analysis: A Self-Learning Text},
+  edition   = {3},
+  publisher = {Springer},
+  year      = {2012},
+  note      = {Tema: análisis de supervivencia aplicado}
+}
+
+@book{collett2015modelling,
+  author    = {Collett, David},
+  title     = {Modelling Survival Data in Medical Research},
+  edition   = {3},
+  publisher = {CRC Press},
+  year      = {2015},
+  note      = {Tema: modelos de supervivencia, censura y análisis de eventos}
+}
+
+@book{dantzig1963linear,
+  author    = {Dantzig, George B.},
+  title     = {Linear Programming and Extensions},
+  publisher = {Princeton University Press},
+  year      = {1963},
+  note      = {Tema: programación lineal, método simplex y optimización}
+}
+
+@book{hillier2024introduction,
+  author    = {Hillier, Frederick S. and Lieberman, Gerald J.},
+  title     = {Introduction to Operations Research},
+  edition   = {12},
+  publisher = {McGraw Hill},
+  year      = {2024},
+  note      = {Tema: investigación de operaciones, optimización lineal, asignación, transporte}
+}
+
+@book{bertsimas1997introduction,
+  author    = {Bertsimas, Dimitris and Tsitsiklis, John N.},
+  title     = {Introduction to Linear Optimization},
+  publisher = {Athena Scientific},
+  year      = {1997},
+  note      = {Tema: optimización lineal y fundamentos matemáticos de programación lineal}
+}
+
+@book{winston2004operations,
+  author    = {Winston, Wayne L.},
+  title     = {Operations Research: Applications and Algorithms},
+  edition   = {4},
+  publisher = {Duxbury Press},
+  year      = {2004},
+  note      = {Tema: optimización aplicada, asignación, transporte y simulación}
+}
+
+@article{metropolis1949monte,
+  author  = {Metropolis, Nicholas and Ulam, Stanislaw},
+  title   = {The Monte Carlo Method},
+  journal = {Journal of the American Statistical Association},
+  volume  = {44},
+  number  = {247},
+  pages   = {335--341},
+  year    = {1949},
+  note    = {Tema: simulación Monte Carlo}
+}
+
+@book{rubinstein2016simulation,
+  author    = {Rubinstein, Reuven Y. and Kroese, Dirk P.},
+  title     = {Simulation and the Monte Carlo Method},
+  edition   = {3},
+  publisher = {Wiley},
+  year      = {2016},
+  note      = {Tema: simulación, Monte Carlo y evaluación de escenarios}
+}
+
+@book{law2015simulation,
+  author    = {Law, Averill M.},
+  title     = {Simulation Modeling and Analysis},
+  edition   = {5},
+  publisher = {McGraw-Hill Education},
+  year      = {2015},
+  note      = {Tema: simulación discreta, modelado y análisis de escenarios}
+}
+
+@book{bollen1989structural,
+  author    = {Bollen, Kenneth A.},
+  title     = {Structural Equations with Latent Variables},
+  publisher = {Wiley},
+  year      = {1989},
+  note      = {Tema: SEM, variables latentes, identificación y estimación}
+}
+
+@article{rosseel2012lavaan,
+  author  = {Rosseel, Yves},
+  title   = {lavaan: An R Package for Structural Equation Modeling},
+  journal = {Journal of Statistical Software},
+  volume  = {48},
+  number  = {2},
+  pages   = {1--36},
+  year    = {2012},
+  note    = {Tema: implementación de SEM, CFA y path analysis en R}
+}
+
+@book{bivand2013applied,
+  author    = {Bivand, Roger S. and Pebesma, Edzer and G{\'o}mez-Rubio, Virgilio},
+  title     = {Applied Spatial Data Analysis with R},
+  edition   = {2},
+  publisher = {Springer},
+  year      = {2013},
+  note      = {Tema: análisis espacial en R, datos geográficos, autocorrelación espacial}
+}
+
+@book{lovelace2025geocomputation,
+  author    = {Lovelace, Robin and Nowosad, Jakub and Muenchow, Jannes},
+  title     = {Geocomputation with R},
+  edition   = {2},
+  publisher = {CRC Press},
+  year      = {2025},
+  url       = {https://r.geocompx.org/},
+  note      = {Tema: geocomputación con R, sf, rutas, mapas y análisis espacial}
+}
+
+@book{osullivan2010geographic,
+  author    = {O'Sullivan, David and Unwin, David J.},
+  title     = {Geographic Information Analysis},
+  edition   = {2},
+  publisher = {Wiley},
+  year      = {2010},
+  note      = {Tema: análisis geográfico, distancias, patrones espaciales}
+}
+
+@book{cressie1993statistics,
+  author    = {Cressie, Noel},
+  title     = {Statistics for Spatial Data},
+  publisher = {Wiley},
+  year      = {1993},
+  note      = {Tema: estadística espacial, dependencia espacial y modelos espaciales}
+}
+
+@book{church2009business,
+  author    = {Church, Richard L. and Murray, Alan T.},
+  title     = {Business Site Selection, Location Analysis, and GIS},
+  publisher = {Wiley},
+  year      = {2009},
+  note      = {Tema: selección de sitios, territorios, cobertura y localización}
+}
+
+@book{drezner2004facility,
+  editor    = {Drezner, Zvi and Hamacher, Horst W.},
+  title     = {Facility Location: Applications and Theory},
+  publisher = {Springer},
+  year      = {2004},
+  note      = {Tema: localización de instalaciones, asignación y cobertura}
+}
+
+@article{cliff1975space,
+  author  = {Cliff, Andrew D. and Ord, John K.},
+  title   = {Space-Time Modelling with an Application to Regional Forecasting},
+  journal = {Transactions of the Institute of British Geographers},
+  volume  = {64},
+  pages   = {119--128},
+  year    = {1975},
+  note    = {Tema: modelos espacio-temporales y pronóstico regional}
+}
+
+@article{pfeifer1980three,
+  author  = {Pfeifer, Phillip E. and Deutsch, Stuart J.},
+  title   = {A Three-Stage Iterative Procedure for Space-Time Modeling},
+  journal = {Technometrics},
+  volume  = {22},
+  number  = {1},
+  pages   = {35--47},
+  year    = {1980},
+  note    = {Tema: metodología STARIMA y modelado espacio-temporal}
+}
+
+@article{pfeifer1980identification,
+  author  = {Pfeifer, Phillip E. and Deutsch, Stuart J.},
+  title   = {Identification and Interpretation of First Order Space-Time ARMA Models},
+  journal = {Technometrics},
+  volume  = {22},
+  number  = {3},
+  pages   = {397--408},
+  year    = {1980},
+  note    = {Tema: modelos STARMA/STARIMA de primer orden}
+}
+
+@book{anselin1988spatial,
+  author    = {Anselin, Luc},
+  title     = {Spatial Econometrics: Methods and Models},
+  publisher = {Kluwer Academic Publishers},
+  year      = {1988},
+  note      = {Tema: econometría espacial, dependencia espacial y autocorrelación espacial}
+}
+
+@book{cressie2011statistics,
+  author    = {Cressie, Noel and Wikle, Christopher K.},
+  title     = {Statistics for Spatio-Temporal Data},
+  publisher = {Wiley},
+  year      = {2011},
+  note      = {Tema: datos espacio-temporales, modelos espaciales dinámicos y pronóstico}
+}
+
+@manual{plumberDocs,
+  title        = {plumber: An API Generator for R},
+  author       = {{Schloerke, Barret and Allen, Jeff and Posit Software, PBC}},
+  organization = {Posit Software, PBC},
+  year         = {2026},
+  url          = {https://www.rplumber.io/},
+  note         = {Tema: APIs con R, despliegue de modelos y servicios HTTP}
+}
+
+@manual{dockerDocs,
+  title        = {Docker Documentation},
+  author       = {{Docker Inc.}},
+  organization = {Docker Inc.},
+  year         = {2026},
+  url          = {https://docs.docker.com/},
+  note         = {Tema: Docker, contenedores, imágenes y despliegue reproducible}
+}
+
+@manual{positConnectDocs,
+  title        = {Posit Connect Documentation},
+  author       = {{Posit Software, PBC}},
+  organization = {Posit Software, PBC},
+  year         = {2026},
+  url          = {https://docs.posit.co/connect/},
+  note         = {Tema: publicación de APIs Plumber, Shiny, Quarto y contenido analítico}
+}
+
+@book{wickham2023rpackages,
+  author    = {Wickham, Hadley and Bryan, Jennifer},
+  title     = {R Packages},
+  edition   = {2},
+  publisher = {O'Reilly Media},
+  year      = {2023},
+  url       = {https://r-pkgs.org/},
+  note      = {Tema: desarrollo de paquetes en R, estructura de proyectos y reproducibilidad}
+}
+
+@book{wickham2017r,
+  author    = {Wickham, Hadley and Grolemund, Garrett},
+  title     = {R for Data Science},
+  publisher = {O'Reilly Media},
+  year      = {2017},
+  url       = {https://r4ds.had.co.nz/},
+  note      = {Tema: R, tidyverse, limpieza, visualización y análisis de datos}
+}
+
+@book{wickham2023r4ds,
+  author    = {Wickham, Hadley and {\c{C}}etinkaya-Rundel, Mine and Grolemund, Garrett},
+  title     = {R for Data Science},
+  edition   = {2},
+  publisher = {O'Reilly Media},
+  year      = {2023},
+  url       = {https://r4ds.hadley.nz/},
+  note      = {Tema: R moderno, tidyverse, datos, visualización y modelado básico}
+}
+
+@book{wickham2024ggplot2,
+  author    = {Wickham, Hadley and Navarro, Danielle and Pedersen, Thomas Lin},
+  title     = {ggplot2: Elegant Graphics for Data Analysis},
+  edition   = {3},
+  publisher = {Springer},
+  year      = {2024},
+  url       = {https://ggplot2-book.org/},
+  note      = {Tema: visualización de datos con ggplot2}
+}
+
+@article{wickham2014tidy,
+  author  = {Wickham, Hadley},
+  title   = {Tidy Data},
+  journal = {Journal of Statistical Software},
+  volume  = {59},
+  number  = {10},
+  pages   = {1--23},
+  year    = {2014},
+  note    = {Tema: datos ordenados, limpieza y transformación de datos}
+}
+
+@manual{dplyrDocs,
+  title        = {dplyr Documentation},
+  author       = {{Posit Software, PBC}},
+  organization = {Posit Software, PBC},
+  year         = {2026},
+  url          = {https://dplyr.tidyverse.org/},
+  note         = {Tema: manipulación de datos en R con dplyr}
+}
+
+@manual{tidyrDocs,
+  title        = {tidyr Documentation},
+  author       = {{Posit Software, PBC}},
+  organization = {Posit Software, PBC},
+  year         = {2026},
+  url          = {https://tidyr.tidyverse.org/},
+  note         = {Tema: transformación de datos, pivoteo y datos tidy}
+}
+
+@manual{ggplot2Docs,
+  title        = {ggplot2 Documentation},
+  author       = {{Posit Software, PBC}},
+  organization = {Posit Software, PBC},
+  year         = {2026},
+  url          = {https://ggplot2.tidyverse.org/},
+  note         = {Tema: visualización de datos con ggplot2}
+}
+
+@manual{quartoDocs,
+  title        = {Quarto Documentation},
+  author       = {{Posit Software, PBC}},
+  organization = {Posit Software, PBC},
+  year         = {2026},
+  url          = {https://quarto.org/docs/},
+  note         = {Tema: publicación reproducible, libros técnicos, citas y bibliografía}
+}
+
+@manual{glmnetPackage,
+  title        = {glmnet: Lasso and Elastic-Net Regularized Generalized Linear Models},
+  author       = {Friedman, Jerome and Hastie, Trevor and Tibshirani, Robert and Narasimhan, Balasubramanian and Tay, Kenneth and Simon, Noah},
+  organization = {CRAN},
+  year         = {2026},
+  url          = {https://cran.r-project.org/package=glmnet},
+  note         = {Tema: implementación en R de Ridge, Lasso y Elastic Net}
+}
+
+@manual{aerPackage,
+  title        = {AER: Applied Econometrics with R},
+  author       = {Kleiber, Christian and Zeileis, Achim},
+  organization = {CRAN},
+  year         = {2026},
+  url          = {https://cran.r-project.org/package=AER},
+  note         = {Tema: econometría aplicada en R, variables instrumentales e ivreg}
+}
+
+@book{kleiber2008applied,
+  author    = {Kleiber, Christian and Zeileis, Achim},
+  title     = {Applied Econometrics with R},
+  publisher = {Springer},
+  year      = {2008},
+  note      = {Tema: econometría aplicada en R, regresión, diagnóstico y variables instrumentales}
+}
+
+@manual{sandwichPackage,
+  title        = {sandwich: Robust Covariance Matrix Estimators},
+  author       = {Zeileis, Achim and K{\"o}ll, Susanne and Graham, Nathaniel},
+  organization = {CRAN},
+  year         = {2026},
+  url          = {https://cran.r-project.org/package=sandwich},
+  note         = {Tema: errores estándar robustos, heterocedasticidad y matrices de covarianza robustas}
+}
+
+@article{zeileis2004econometric,
+  author  = {Zeileis, Achim},
+  title   = {Econometric Computing with HC and HAC Covariance Matrix Estimators},
+  journal = {Journal of Statistical Software},
+  volume  = {11},
+  number  = {10},
+  pages   = {1--17},
+  year    = {2004},
+  note    = {Tema: errores estándar robustos HC y HAC en R}
+}
+
+@manual{sfPackage,
+  title        = {sf: Simple Features for R},
+  author       = {Pebesma, Edzer},
+  organization = {CRAN},
+  year         = {2026},
+  url          = {https://cran.r-project.org/package=sf},
+  note         = {Tema: datos espaciales vectoriales, CRS, geometrías y operaciones geográficas}
+}
+
+@article{pebesma2018simple,
+  author  = {Pebesma, Edzer},
+  title   = {Simple Features for R: Standardized Support for Spatial Vector Data},
+  journal = {The R Journal},
+  volume  = {10},
+  number  = {1},
+  pages   = {439--446},
+  year    = {2018},
+  note    = {Tema: paquete sf, datos espaciales y análisis geográfico en R}
+}
+
+@manual{osrmDocs,
+  title        = {OSRM: Open Source Routing Machine Documentation},
+  author       = {{Project OSRM}},
+  organization = {Project OSRM},
+  year         = {2026},
+  url          = {https://project-osrm.org/docs/},
+  note         = {Tema: rutas, matrices de distancia y duración, optimización geoespacial}
+}
+
+@manual{mapboxDirectionsDocs,
+  title        = {Mapbox Directions API Documentation},
+  author       = {{Mapbox}},
+  organization = {Mapbox},
+  year         = {2026},
+  url          = {https://docs.mapbox.com/api/navigation/directions/},
+  note         = {Tema: rutas, tráfico, navegación y distancias en red vial}
+}
+
+@manual{simpyDocs,
+  title        = {SimPy Documentation},
+  author       = {{SimPy Developers}},
+  organization = {SimPy},
+  year         = {2026},
+  url          = {https://simpy.readthedocs.io/},
+  note         = {Tema: simulación discreta en Python}
+}
+
+@manual{sklearnDocs,
+  title        = {scikit-learn Documentation},
+  author       = {{scikit-learn Developers}},
+  organization = {scikit-learn},
+  year         = {2026},
+  url          = {https://scikit-learn.org/stable/},
+  note         = {Tema: machine learning aplicado, PCA, clustering, validación, métricas y t-SNE}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@book{tukey1977eda,
+  author    = {Tukey, John W.},
+  title     = {Exploratory Data Analysis},
+  publisher = {Addison-Wesley},
+  year      = {1977},
+  note      = {Tema: análisis exploratorio de datos, estadística descriptiva, boxplots y valores atípicos}
+}
+
+@book{hoaglin1983understanding,
+  author    = {Hoaglin, David C. and Mosteller, Frederick and Tukey, John W.},
+  title     = {Understanding Robust and Exploratory Data Analysis},
+  publisher = {Wiley},
+  year      = {1983},
+  note      = {Tema: análisis exploratorio de datos, métodos robustos, resúmenes estadísticos y valores atípicos}
+}
+
+@article{mcgill1978variations,
+  author  = {McGill, Robert and Tukey, John W. and Larsen, Wayne A.},
+  title   = {Variations of Box Plots},
+  journal = {The American Statistician},
+  volume  = {32},
+  number  = {1},
+  pages   = {12--16},
+  year    = {1978},
+  note    = {Tema: boxplots, cuartiles, bigotes y visualización de valores atípicos}
+}
+
+@article{hyndman1996sample,
+  author  = {Hyndman, Rob J. and Fan, Yanan},
+  title   = {Sample Quantiles in Statistical Packages},
+  journal = {The American Statistician},
+  volume  = {50},
+  number  = {4},
+  pages   = {361--365},
+  year    = {1996},
+  note    = {Tema: cuantiles, percentiles, cuartiles y diferencias de cálculo entre paquetes estadísticos}
+}
+
+@article{joanes1998comparing,
+  author  = {Joanes, Derrick N. and Gill, Christine A.},
+  title   = {Comparing Measures of Sample Skewness and Kurtosis},
+  journal = {Journal of the Royal Statistical Society: Series D (The Statistician)},
+  volume  = {47},
+  number  = {1},
+  pages   = {183--189},
+  year    = {1998},
+  note    = {Tema: asimetría, curtosis y momentos muestrales}
+}
+
+@book{iglewicz1993outliers,
+  author    = {Iglewicz, Boris and Hoaglin, David C.},
+  title     = {How to Detect and Handle Outliers},
+  publisher = {ASQC Quality Press},
+  year      = {1993},
+  note      = {Tema: detección y tratamiento de valores atípicos}
+}
+
+@book{cleveland1993visualizing,
+  author    = {Cleveland, William S.},
+  title     = {Visualizing Data},
+  publisher = {Hobart Press},
+  year      = {1993},
+  note      = {Tema: visualización estadística, análisis exploratorio y gráficos de datos}
+}
+
+@book{wilkinson2005grammar,
+  author    = {Wilkinson, Leland},
+  title     = {The Grammar of Graphics},
+  edition   = {2},
+  publisher = {Springer},
+  year      = {2005},
+  note      = {Tema: fundamentos teóricos de la visualización de datos}
+}
+
+@book{devore2016probability,
+  author    = {Devore, Jay L.},
+  title     = {Probability and Statistics for Engineering and the Sciences},
+  edition   = {9},
+  publisher = {Cengage Learning},
+  year      = {2016},
+  note      = {Tema: estadística descriptiva, probabilidad, varianza, desviación estándar y distribuciones}
+}
+
+@book{degroot2012probability,
+  author    = {DeGroot, Morris H. and Schervish, Mark J.},
+  title     = {Probability and Statistics},
+  edition   = {4},
+  publisher = {Pearson},
+  year      = {2012},
+  note      = {Tema: fundamentos de probabilidad, estadística descriptiva e inferencia}
+}
+
+@book{freedman2007statistics,
+  author    = {Freedman, David and Pisani, Robert and Purves, Roger},
+  title     = {Statistics},
+  edition   = {4},
+  publisher = {W. W. Norton},
+  year      = {2007},
+  note      = {Tema: estadística descriptiva, interpretación de datos, variabilidad y gráficos}
+}
+
+@online{nistsematech_handbook,
+  author  = {{NIST/SEMATECH}},
+  title   = {e-Handbook of Statistical Methods},
+  year    = {n.d.},
+  url     = {https://www.itl.nist.gov/div898/handbook/},
+  urldate = {2026-06-05},
+  note    = {Tema: métodos estadísticos oficiales, estadística descriptiva, gráficos, distribuciones y control estadístico}
+}
+
+@book{tukey1977eda,
+  author    = {Tukey, John W.},
+  title     = {Exploratory Data Analysis},
+  publisher = {Addison-Wesley},
+  year      = {1977},
+  note      = {Tema: análisis exploratorio de datos, estadística descriptiva, boxplots y valores atípicos}
+}
+
+@book{devore2016probability,
+  author    = {Devore, Jay L.},
+  title     = {Probability and Statistics for Engineering and the Sciences},
+  edition   = {9},
+  publisher = {Cengage Learning},
+  year      = {2016},
+  note      = {Tema: estadística descriptiva, probabilidad, varianza, desviación estándar y distribuciones}
+}
+
+@article{joanes1998comparing,
+  author  = {Joanes, Derrick N. and Gill, Christine A.},
+  title   = {Comparing Measures of Sample Skewness and Kurtosis},
+  journal = {Journal of the Royal Statistical Society: Series D (The Statistician)},
+  volume  = {47},
+  number  = {1},
+  pages   = {183--189},
+  year    = {1998},
+  doi     = {10.1111/1467-9884.00122},
+  note    = {Tema: asimetría, curtosis y momentos muestrales}
+}
+
+@book{degroot2012probability,
+  author    = {DeGroot, Morris H. and Schervish, Mark J.},
+  title     = {Probability and Statistics},
+  edition   = {4},
+  publisher = {Pearson},
+  year      = {2012},
+  note      = {Tema: probabilidad, estadística descriptiva, distribuciones e inferencia}
+}
+
+@book{feller1968introduction,
+  author    = {Feller, William},
+  title     = {An Introduction to Probability Theory and Its Applications},
+  volume    = {1},
+  edition   = {3},
+  publisher = {Wiley},
+  year      = {1968},
+  note      = {Tema: fundamentos de probabilidad, teorema del límite central, desigualdades y distribuciones}
+}
+
+@book{poisson1837recherches,
+  author    = {Poisson, Siméon Denis},
+  title     = {Recherches sur la Probabilité des Jugements en Matière Criminelle et en Matière Civile},
+  publisher = {Bachelier},
+  address   = {Paris},
+  year      = {1837},
+  note      = {Tema: distribución de Poisson y fundamentos históricos de probabilidad}
+}
+
+@book{johnson1994continuous,
+  author    = {Johnson, Norman L. and Kotz, Samuel and Balakrishnan, N.},
+  title     = {Continuous Univariate Distributions},
+  volume    = {1},
+  edition   = {2},
+  publisher = {Wiley},
+  year      = {1994},
+  note      = {Tema: distribuciones continuas, gamma, log-normal y distribuciones relacionadas}
+}
+
+@book{johnson1995continuous,
+  author    = {Johnson, Norman L. and Kotz, Samuel and Balakrishnan, N.},
+  title     = {Continuous Univariate Distributions},
+  volume    = {2},
+  edition   = {2},
+  publisher = {Wiley},
+  year      = {1995},
+  note      = {Tema: distribuciones continuas, beta, Pareto y familias relacionadas}
+}
+
+@book{pareto1896cours,
+  author    = {Pareto, Vilfredo},
+  title     = {Cours d'Économie Politique},
+  publisher = {F. Rouge},
+  address   = {Lausanne},
+  year      = {1896},
+  note      = {Tema: distribución de Pareto, desigualdad económica y leyes de potencia}
+}
+
+@book{aitchison1957lognormal,
+  author    = {Aitchison, John and Brown, James A. C.},
+  title     = {The Lognormal Distribution},
+  publisher = {Cambridge University Press},
+  year      = {1957},
+  note      = {Tema: distribución log-normal y variables positivas sesgadas}
+}
+
+@book{casella2002statistical,
+  author    = {Casella, George and Berger, Roger L.},
+  title     = {Statistical Inference},
+  edition   = {2},
+  publisher = {Duxbury},
+  year      = {2002},
+  note      = {Tema: inferencia estadística, intervalos de confianza, pruebas de hipótesis y estimación}
+}
+
+@article{wasserstein2016asa,
+  author  = {Wasserstein, Ronald L. and Lazar, Nicole A.},
+  title   = {The ASA Statement on p-Values: Context, Process, and Purpose},
+  journal = {The American Statistician},
+  volume  = {70},
+  number  = {2},
+  pages   = {129--133},
+  year    = {2016},
+  doi     = {10.1080/00031305.2016.1154108},
+  note    = {Tema: interpretación de p-values y pruebas de hipótesis}
+}
+
+@article{wasserstein2019moving,
+  author  = {Wasserstein, Ronald L. and Schirm, Allen L. and Lazar, Nicole A.},
+  title   = {Moving to a World Beyond ``p < 0.05''},
+  journal = {The American Statistician},
+  volume  = {73},
+  number  = {sup1},
+  pages   = {1--19},
+  year    = {2019},
+  doi     = {10.1080/00031305.2019.1583913},
+  note    = {Tema: interpretación moderna de significancia estadística y limitaciones del p-value}
+}
+
+@article{student1908probable,
+  author  = {{Student}},
+  title   = {The Probable Error of a Mean},
+  journal = {Biometrika},
+  volume  = {6},
+  number  = {1},
+  pages   = {1--25},
+  year    = {1908},
+  doi     = {10.2307/2331554},
+  note    = {Tema: distribución t de Student y pruebas t}
+}
+
+@book{thode2002testing,
+  author    = {Thode, Henry C.},
+  title     = {Testing for Normality},
+  publisher = {Marcel Dekker},
+  year      = {2002},
+  note      = {Tema: pruebas de normalidad y evaluación de supuestos}
+}
+
+@article{razali2011power,
+  author  = {Razali, Nornadiah Mohd and Yap, Bee Wah},
+  title   = {Power Comparisons of Shapiro-Wilk, Kolmogorov-Smirnov, Lilliefors and Anderson-Darling Tests},
+  journal = {Journal of Statistical Modeling and Analytics},
+  volume  = {2},
+  number  = {1},
+  pages   = {21--33},
+  year    = {2011},
+  note    = {Tema: comparación de pruebas de normalidad}
+}
+
+@article{shapiro1965analysis,
+  author  = {Shapiro, Samuel S. and Wilk, Martin B.},
+  title   = {An Analysis of Variance Test for Normality (Complete Samples)},
+  journal = {Biometrika},
+  volume  = {52},
+  number  = {3/4},
+  pages   = {591--611},
+  year    = {1965},
+  doi     = {10.2307/2333709},
+  note    = {Tema: prueba de Shapiro-Wilk para normalidad}
+}
+
+@article{kolmogorov1933sulla,
+  author  = {Kolmogorov, Andrey N.},
+  title   = {Sulla Determinazione Empirica di una Legge di Distribuzione},
+  journal = {Giornale dell'Istituto Italiano degli Attuari},
+  volume  = {4},
+  pages   = {83--91},
+  year    = {1933},
+  note    = {Tema: prueba de Kolmogorov-Smirnov y comparación de distribuciones}
+}
+
+@article{smirnov1948table,
+  author  = {Smirnov, Nikolai V.},
+  title   = {Table for Estimating the Goodness of Fit of Empirical Distributions},
+  journal = {The Annals of Mathematical Statistics},
+  volume  = {19},
+  number  = {2},
+  pages   = {279--281},
+  year    = {1948},
+  doi     = {10.1214/aoms/1177730256},
+  note    = {Tema: prueba de Kolmogorov-Smirnov y bondad de ajuste}
+}
+
+@article{jarque1980efficient,
+  author  = {Jarque, Carlos M. and Bera, Anil K.},
+  title   = {Efficient Tests for Normality, Homoscedasticity and Serial Independence of Regression Residuals},
+  journal = {Economics Letters},
+  volume  = {6},
+  number  = {3},
+  pages   = {255--259},
+  year    = {1980},
+  doi     = {10.1016/0165-1765(80)90024-5},
+  note    = {Tema: prueba de Jarque-Bera, normalidad, asimetría y curtosis}
+}
+
+@article{dagostino1971omnibus,
+  author  = {D'Agostino, Ralph B.},
+  title   = {An Omnibus Test of Normality for Moderate and Large Size Samples},
+  journal = {Biometrika},
+  volume  = {58},
+  number  = {2},
+  pages   = {341--348},
+  year    = {1971},
+  doi     = {10.1093/biomet/58.2.341},
+  note    = {Tema: prueba ómnibus de normalidad}
+}
+
+@article{dagostino1990suggestion,
+  author  = {D'Agostino, Ralph B. and Belanger, Albert and D'Agostino, Ralph B. Jr.},
+  title   = {A Suggestion for Using Powerful and Informative Tests of Normality},
+  journal = {The American Statistician},
+  volume  = {44},
+  number  = {4},
+  pages   = {316--321},
+  year    = {1990},
+  doi     = {10.1080/00031305.1990.10475751},
+  note    = {Tema: prueba D'Agostino-Pearson y pruebas de normalidad}
+}
+
+@book{cleveland1993visualizing,
+  author    = {Cleveland, William S.},
+  title     = {Visualizing Data},
+  publisher = {Hobart Press},
+  year      = {1993},
+  note      = {Tema: visualización estadística, análisis exploratorio, gráficos de dispersión y diagnóstico visual}
+}
+
+@incollection{levene1960robust,
+  author    = {Levene, Howard},
+  title     = {Robust Tests for Equality of Variances},
+  booktitle = {Contributions to Probability and Statistics: Essays in Honor of Harold Hotelling},
+  editor    = {Olkin, Ingram and Ghurye, Sudhist G. and Hoeffding, Wassily and Madow, William G. and Mann, Henry B.},
+  publisher = {Stanford University Press},
+  address   = {Stanford},
+  pages     = {278--292},
+  year      = {1960},
+  note      = {Tema: prueba de Levene y homogeneidad de varianzas}
+}
+
+@article{mcgill1978variations,
+  author  = {McGill, Robert and Tukey, John W. and Larsen, Wayne A.},
+  title   = {Variations of Box Plots},
+  journal = {The American Statistician},
+  volume  = {32},
+  number  = {1},
+  pages   = {12--16},
+  year    = {1978},
+  doi     = {10.1080/00031305.1978.10479236},
+  note    = {Tema: boxplots, cuartiles, bigotes y valores atípicos}
+}
+
+@book{fisher1925statistical,
+  author    = {Fisher, Ronald A.},
+  title     = {Statistical Methods for Research Workers},
+  publisher = {Oliver and Boyd},
+  address   = {Edinburgh},
+  year      = {1925},
+  note      = {Tema: ANOVA, pruebas estadísticas clásicas e inferencia}
+}
+
+@article{tukey1949comparing,
+  author  = {Tukey, John W.},
+  title   = {Comparing Individual Means in the Analysis of Variance},
+  journal = {Biometrics},
+  volume  = {5},
+  number  = {2},
+  pages   = {99--114},
+  year    = {1949},
+  doi     = {10.2307/3001913},
+  note    = {Tema: prueba de Tukey y comparaciones múltiples después de ANOVA}
+}
+
+@book{hoaglin1983understanding,
+  author    = {Hoaglin, David C. and Mosteller, Frederick and Tukey, John W.},
+  title     = {Understanding Robust and Exploratory Data Analysis},
+  publisher = {Wiley},
+  year      = {1983},
+  note      = {Tema: análisis exploratorio, métodos robustos, outliers y resúmenes estadísticos}
+}
+
+@book{huber1981robust,
+  author    = {Huber, Peter J.},
+  title     = {Robust Statistics},
+  publisher = {Wiley},
+  year      = {1981},
+  note      = {Tema: estadística robusta y estimadores robustos}
+}
+
+@book{efron1994introduction,
+  author    = {Efron, Bradley and Tibshirani, Robert J.},
+  title     = {An Introduction to the Bootstrap},
+  publisher = {Chapman and Hall/CRC},
+  year      = {1994},
+  note      = {Tema: bootstrap, remuestreo e inferencia no paramétrica}
+}
+
+@book{hollander2013nonparametric,
+  author    = {Hollander, Myles and Wolfe, Douglas A. and Chicken, Eric},
+  title     = {Nonparametric Statistical Methods},
+  edition   = {3},
+  publisher = {Wiley},
+  year      = {2013},
+  note      = {Tema: pruebas no paramétricas, Wilcoxon, Mann-Whitney y Kruskal-Wallis}
+}
+
+@book{conover1999practical,
+  author    = {Conover, William J.},
+  title     = {Practical Nonparametric Statistics},
+  edition   = {3},
+  publisher = {Wiley},
+  year      = {1999},
+  note      = {Tema: estadística no paramétrica aplicada}
+}
+
+@article{mann1947test,
+  author  = {Mann, Henry B. and Whitney, Donald R.},
+  title   = {On a Test of Whether One of Two Random Variables is Stochastically Larger than the Other},
+  journal = {The Annals of Mathematical Statistics},
+  volume  = {18},
+  number  = {1},
+  pages   = {50--60},
+  year    = {1947},
+  doi     = {10.1214/aoms/1177730491},
+  note    = {Tema: prueba de Mann-Whitney U}
+}
+
+@article{wilcoxon1945individual,
+  author  = {Wilcoxon, Frank},
+  title   = {Individual Comparisons by Ranking Methods},
+  journal = {Biometrics Bulletin},
+  volume  = {1},
+  number  = {6},
+  pages   = {80--83},
+  year    = {1945},
+  doi     = {10.2307/3001968},
+  note    = {Tema: prueba de Wilcoxon y métodos basados en rangos}
+}
+
+@article{kruskal1952use,
+  author  = {Kruskal, William H.},
+  title   = {Use of Ranks in One-Criterion Variance Analysis},
+  journal = {Journal of the American Statistical Association},
+  volume  = {47},
+  number  = {260},
+  pages   = {583--621},
+  year    = {1952},
+  doi     = {10.1080/01621459.1952.10483441},
+  note    = {Tema: prueba de Kruskal-Wallis}
+}
+
+@article{box1964analysis,
+  author  = {Box, George E. P. and Cox, David R.},
+  title   = {An Analysis of Transformations},
+  journal = {Journal of the Royal Statistical Society: Series B (Methodological)},
+  volume  = {26},
+  number  = {2},
+  pages   = {211--252},
+  year    = {1964},
+  doi     = {10.1111/j.2517-6161.1964.tb00553.x},
+  note    = {Tema: transformaciones de datos y transformación Box-Cox}
+}
+
+@book{rousseeuw1987robust,
+  author    = {Rousseeuw, Peter J. and Leroy, Annick M.},
+  title     = {Robust Regression and Outlier Detection},
+  publisher = {Wiley},
+  year      = {1987},
+  note      = {Tema: métodos robustos y detección de valores atípicos}
+}
+
+@book{wilcox2012introduction,
+  author    = {Wilcox, Rand R.},
+  title     = {Introduction to Robust Estimation and Hypothesis Testing},
+  edition   = {3},
+  publisher = {Academic Press},
+  year      = {2012},
+  note      = {Tema: estimación robusta, media recortada, winsorización y pruebas robustas}
+}
+
+@article{dixon1960simplified,
+  author  = {Dixon, Wilfrid J.},
+  title   = {Simplified Estimation from Censored Normal Samples},
+  journal = {The Annals of Mathematical Statistics},
+  volume  = {31},
+  number  = {2},
+  pages   = {385--391},
+  year    = {1960},
+  doi     = {10.1214/aoms/1177705900},
+  note    = {Tema: winsorización, censura y estimación robusta}
+}
+
+@article{efron1979bootstrap,
+  author  = {Efron, Bradley},
+  title   = {Bootstrap Methods: Another Look at the Jackknife},
+  journal = {The Annals of Statistics},
+  volume  = {7},
+  number  = {1},
+  pages   = {1--26},
+  year    = {1979},
+  doi     = {10.1214/aos/1176344552},
+  note    = {Tema: bootstrap y métodos de remuestreo}
+}
+
+@book{fisher1935design,
+  author    = {Fisher, Ronald A.},
+  title     = {The Design of Experiments},
+  publisher = {Oliver and Boyd},
+  address   = {Edinburgh},
+  year      = {1935},
+  note      = {Tema: diseño experimental, aleatorización y pruebas por permutación}
+}
+
+@book{good2005permutation,
+  author    = {Good, Phillip I.},
+  title     = {Permutation, Parametric and Bootstrap Tests of Hypotheses},
+  edition   = {3},
+  publisher = {Springer},
+  year      = {2005},
+  note      = {Tema: pruebas por permutación, bootstrap y pruebas de hipótesis}
+}
+
+@book{kohavi2020trustworthy,
+  author    = {Kohavi, Ron and Tang, Diane and Xu, Ya},
+  title     = {Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing},
+  publisher = {Cambridge University Press},
+  year      = {2020},
+  note      = {Tema: A/B testing, experimentos controlados, métricas de negocio y evaluación experimental}
+}
+
+@inproceedings{deng2017objective,
+  author    = {Deng, Alex},
+  title     = {Objective Bayesian Two Sample Hypothesis Testing for Online Controlled Experiments},
+  booktitle = {Proceedings of the 24th International Conference on World Wide Web Companion},
+  pages     = {923--928},
+  publisher = {ACM},
+  year      = {2015},
+  doi       = {10.1145/2740908.2742563},
+  note      = {Tema: A/B testing, comparación de muestras y experimentos controlados en línea}
+}
+
+@book{gerber2012field,
+  author    = {Gerber, Alan S. and Green, Donald P.},
+  title     = {Field Experiments: Design, Analysis, and Interpretation},
+  publisher = {W. W. Norton},
+  year      = {2012},
+  note      = {Tema: diseño experimental, grupos control y tratamiento, inferencia causal}
+}
+
+@book{agresti2013categorical,
+  author    = {Agresti, Alan},
+  title     = {Categorical Data Analysis},
+  edition   = {3},
+  publisher = {Wiley},
+  year      = {2013},
+  note      = {Tema: comparación de proporciones, datos categóricos y modelos para variables discretas}
+}
+
+@book{cohen1988statistical,
+  author    = {Cohen, Jacob},
+  title     = {Statistical Power Analysis for the Behavioral Sciences},
+  edition   = {2},
+  publisher = {Lawrence Erlbaum Associates},
+  year      = {1988},
+  note      = {Tema: tamaño del efecto, poder estadístico y tamaño de muestra}
+}
+
+@article{lakens2013calculating,
+  author  = {Lakens, Daniël},
+  title   = {Calculating and Reporting Effect Sizes to Facilitate Cumulative Science: A Practical Primer for t-Tests and ANOVAs},
+  journal = {Frontiers in Psychology},
+  volume  = {4},
+  pages   = {863},
+  year    = {2013},
+  doi     = {10.3389/fpsyg.2013.00863},
+  note    = {Tema: tamaño del efecto, t-tests, ANOVA y relevancia práctica}
+}
+
+@book{chow2008sample,
+  author    = {Chow, Shein-Chung and Shao, Jun and Wang, Hansheng},
+  title     = {Sample Size Calculations in Clinical Research},
+  edition   = {2},
+  publisher = {Chapman and Hall/CRC},
+  year      = {2008},
+  note      = {Tema: tamaño de muestra, poder estadístico y diseño de estudios}
+}
+
+
+
+
+
+
+
+
+@Manual{R-shiny,
+  title = {shiny: Web Application Framework for R},
+  note = {R package},
+  year = {2012},
+  url = {https://CRAN.R-project.org/package=shiny}
+}
+
+@Manual{R-dplyr,
+  title = {dplyr: A Grammar of Data Manipulation},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=dplyr}
+}
+
+@Manual{R-ggplot2,
+  title = {ggplot2: Create Elegant Data Visualisations Using the Grammar of Graphics},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=ggplot2}
+}
+
+@Manual{R-forcats,
+  title = {forcats: Tools for Working with Categorical Variables},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=forcats}
+}
+
+@Manual{R-tibble,
+  title = {tibble: Simple Data Frames},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=tibble}
+}
+
+@Manual{R-tidyr,
+  title = {tidyr: Tidy Messy Data},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=tidyr}
+}
+
+@Manual{R-purrr,
+  title = {purrr: Functional Programming Tools},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=purrr}
+}
+
+@Manual{R-stringr,
+  title = {stringr: Simple, Consistent Wrappers for Common String Operations},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=stringr}
+}
+
+@Manual{R-lubridate,
+  title = {lubridate: Make Dealing with Dates a Little Easier},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=lubridate}
+}
+
+@Manual{R-dtplyr,
+  title = {dtplyr: Data Table Back-End for dplyr},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=dtplyr}
+}
+
+@Manual{R-vroom,
+  title = {vroom: Read and Write Rectangular Text Data Quickly},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=vroom}
+}
+
+@Manual{R-readxl,
+  title = {readxl: Read Excel Files},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=readxl}
+}
+
+@Manual{R-writexl,
+  title = {writexl: Export Data Frames to Excel xlsx Format},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=writexl}
+}
+
+@Manual{R-openxlsx,
+  title = {openxlsx: Read, Write and Edit xlsx Files},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=openxlsx}
+}
+
+@Manual{R-openxlsx2,
+  title = {openxlsx2: Read, Write and Edit xlsx Files},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=openxlsx2}
+}
+
+@Manual{R-mschart,
+  title = {mschart: Native Microsoft Chart Support for Microsoft Office Documents},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=mschart}
+}
+
+@Manual{R-reactable,
+  title = {reactable: Interactive Data Tables for R},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=reactable}
+}
+
+@Manual{R-reactablefmtr,
+  title = {reactablefmtr: Conditional Formatting for Reactable Tables},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=reactablefmtr}
+}
+
+@Manual{R-shinyWidgets,
+  title = {shinyWidgets: Custom Inputs Widgets for Shiny},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=shinyWidgets}
+}
+
+@Manual{R-shinydashboard,
+  title = {shinydashboard: Create Dashboards with Shiny},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=shinydashboard}
+}
+
+@Manual{R-shinydashboardPlus,
+  title = {shinydashboardPlus: Add More AdminLTE2 Components to shinydashboard},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=shinydashboardPlus}
+}
+
+@Manual{R-shinymanager,
+  title = {shinymanager: Authentication Management for Shiny Applications},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=shinymanager}
+}
+
+@Manual{R-shinyjs,
+  title = {shinyjs: Easily Improve the User Experience of Your Shiny Apps},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=shinyjs}
+}
+
+@Manual{R-shinybusy,
+  title = {shinybusy: Busy Indicators and Notifications for Shiny Applications},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=shinybusy}
+}
+
+@Manual{R-shinythemes,
+  title = {shinythemes: Themes for Shiny},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=shinythemes}
+}
+
+@Manual{R-bslib,
+  title = {bslib: Custom Bootstrap Sass Themes for Shiny and R Markdown},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=bslib}
+}
+
+@Manual{R-bs4Dash,
+  title = {bs4Dash: A Bootstrap 4 Version of shinydashboard},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=bs4Dash}
+}
+
+@Manual{R-argonDash,
+  title = {argonDash: Argon Shiny Dashboard Template},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=argonDash}
+}
+
+@Manual{R-shinypop,
+  title = {shinypop: Collection of Notifications for Shiny Applications},
+  note = {R package},
+  url = {https://github.com/dreamRs/shinypop}
+}
+
+@Manual{R-ggpattern,
+  title = {ggpattern: ggplot2 Pattern Geoms},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=ggpattern}
+}
+
+@Manual{R-treemapify,
+  title = {treemapify: Draw Treemaps in ggplot2},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=treemapify}
+}
+
+@Manual{R-scales,
+  title = {scales: Scale Functions for Visualization},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=scales}
+}
+
+@Manual{R-RColorBrewer,
+  title = {RColorBrewer: ColorBrewer Palettes},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=RColorBrewer}
+}
+
+@Manual{R-echarts4r,
+  title = {echarts4r: Create Interactive Graphs with ECharts},
+  note = {R package},
+  year = {2020},
+  url = {https://CRAN.R-project.org/package=echarts4r}
+}
+
+@Manual{R-htmlwidgets,
+  title = {htmlwidgets: HTML Widgets for R},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=htmlwidgets}
+}
+
+@Manual{R-mapboxer,
+  title = {mapboxer: An R Interface to Mapbox GL JS},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=mapboxer}
+}
+
+@Manual{R-ggmap,
+  title = {ggmap: Spatial Visualization with ggplot2},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=ggmap}
+}
+
+@Manual{R-sf,
+  title = {sf: Simple Features for R},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=sf}
+}
+
+@Manual{R-globe4r,
+  title = {globe4r: Interactive Globes for R},
+  note = {R package},
+  url = {https://github.com/JohnCoene/globe4r}
+}
+
+@Manual{R-DBI,
+  title = {DBI: R Database Interface},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=DBI}
+}
+
+@Manual{R-RMySQL,
+  title = {RMySQL: Database Interface and MySQL Driver for R},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=RMySQL}
+}
+
+@Manual{R-odbc,
+  title = {odbc: Connect to ODBC Compatible Databases Using the DBI Interface},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=odbc}
+}
+
+@Manual{R-googlesheets4,
+  title = {googlesheets4: Access Google Sheets using the Sheets API V4},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=googlesheets4}
+}
+
+@Manual{R-prophet,
+  title = {prophet: Automatic Forecasting Procedure},
+  note = {R package},
+  url = {https://CRAN.R-project.org/package=prophet}
+}
+
+
+@book{reis2022fundamentals,
+  title={Fundamentals of data engineering: plan and build robust data systems},
+  author={Reis, Joe and Housley, Matt},
+  year={2022},
+  publisher={" O'Reilly Media, Inc."}
+}
+
+@article{paraskevas2025data,
+  title={Data preprocessing and feature engineering for data mining: Techniques, tools, and best practices},
+  author={Paraskevas, Koukaras and Christos, Tjortjis},
+  journal={Ai},
+  volume={6},
+  number={10},
+  pages={257},
+  year={2025},
+  publisher={MDPI AG}
+}
+
+
+
+
+
+
+
+
+
+
+
+
